@@ -1,4 +1,4 @@
-package com.suresh.retrofitdemo
+package com.example.recyapp
 
 import com.google.gson.annotations.SerializedName
 
